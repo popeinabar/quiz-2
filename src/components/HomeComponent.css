@@ -1,0 +1,19 @@
+.home{
+    text-align: center;
+    margin-top: 300px;
+}
+.heading{
+    font-size: 80px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+}
+button{
+    color: white;
+    font-size: larger;
+    background-color: rgb(122, 122, 122);
+    width: 190px;
+    height: 45px;
+    border-radius: 97px;
+    outline: none;
+    cursor: pointer;
+}

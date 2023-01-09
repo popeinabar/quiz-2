@@ -1,0 +1,38 @@
+.result{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.score{
+    color: rgb(104, 104, 104);
+}
+.scoreContainer{
+    background-color: white; 
+    border-left: 5px solid rgb(0, 255, 213);
+    width: 40%;
+    margin: 2rem auto 0 auto;
+    padding: 1.5rem 2rem;
+}
+.flex{
+    display: flex;
+    justify-content:space-between;
+    gap: 0;
+}
+.details{
+    text-align: left;
+}
+.buttons{
+    margin: 30px;
+}
+.play{
+    border-color: rgb(230, 250, 245);
+    color: rgb(118, 214, 214);
+    margin-right: 30px;
+    width: 7%;
+}
+.home{
+    border-color: black;
+    color:rgb(255, 0, 0);
+    width: 7%;
+}
